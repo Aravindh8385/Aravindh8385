@@ -1,0 +1,6 @@
+package propack55
+object obj55 {
+	def main(args:Array[String]):Unit={
+        println("====")
+        }
+}
